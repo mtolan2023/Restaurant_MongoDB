@@ -1,5 +1,4 @@
-# nosql-challenge
-Restaurant Cleanliness Analysis using Python and MongoDB
+# Restaurant Cleanliness Analysis using Python and MongoDB
 
 This repo contains the code and files for the Eat Safe, Love data analysis:
 
